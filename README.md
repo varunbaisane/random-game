@@ -1,1 +1,1 @@
-# random-game
+# Random Game
