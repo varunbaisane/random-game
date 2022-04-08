@@ -1,4 +1,3 @@
-#Copyright Varun Baisane
 import random as rand
 import math
 import time as t
