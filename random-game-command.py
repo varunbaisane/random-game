@@ -16,7 +16,7 @@ while True:
     #Instructions
     if start.lower() == 'i':
         print()
-        print('Instructions: \nGive values for a range of numbers and \nTry to choose the correct random number.\nYou have to win the game in 25 rounds.')
+        print('\nInstructions\n\nGive values for a range of numbers.\nChoose a number between specified range.\nIf it matches with number randomly chosen by the computer you win.\nWin the game in 25 rounds.\nWin the game in least time and least rounds and\ncome in the Scoreboard of TOP 3 Players.')
 
     #Playing Game
     elif start.lower() == 'p':
