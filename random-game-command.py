@@ -6,7 +6,7 @@ sb = []                 #scoreboard
 sb.append(['Player', 'Highscore'])
 name = None
 
-
+#Add new Highscore
 #loop for continuous asking to play until exit
 while True:
     print()
@@ -85,7 +85,7 @@ while True:
             print('\n No scores.')
         else:
             print('\n SCORE BOARD \n')
-            print('\n TOP 3 SCORERS \n')
+            print('\n TOP SCORERS \n')
 
             for x in range(1,len(sb)-1):
                 for y in range(1,len(sb)-x):
